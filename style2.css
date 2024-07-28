@@ -1,0 +1,181 @@
+.parentabt {
+    background-color: rgb(65, 61, 61);
+    color: white;
+    height: 400px;
+}
+
+.about {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(65, 61, 61);
+    color: white;
+    padding: 15px;
+    height: 400px;
+}
+
+.pAbout {
+    font-size: 35PX;
+
+}
+
+.imgAbout {
+    width: 270px;
+    height: 280px;
+    border-radius: 100%;
+    padding: 40px;
+}
+
+button {
+    padding: 15px;
+    width: 200px;
+    height: 80px;
+    margin-top: 40px;
+}
+
+.information {
+    display: inline-block;
+}
+
+.informationimg {
+    float: right;
+}
+
+.white {
+    width: 100%;
+    background-color: rgb(228, 217, 203);
+    height: 250px;
+}
+
+.whitep {
+    margin: auto;
+    width: 600px;
+}
+
+.cartsparent {
+    width: 70%;
+    margin: auto;
+}
+
+.welcom {
+    font-size: 60px;
+    margin-left: 450px;
+}
+
+.carts {
+    display: inline-block;
+    width: 1090px;
+    padding: 12px;
+    margin-top: 48px;
+}
+
+.cartone {
+    float: left;
+    width: 30%;
+}
+
+.carttwo {
+    float: right;
+    width: 30%;
+}
+
+.greenbtn {
+    margin: auto;
+    margin-left: 430px;
+    margin-top: 100px;
+    background-color: aqua;
+    width: 250px;
+    height: 80px;
+}
+
+.parentaftergreen {
+    width: 94%;
+    margin: auto;
+}
+
+.welcoms {
+    margin-top: 90px;
+    font-size: 60px;
+    margin-left: 430px;
+}
+
+.paftergreen {
+    width: 1090px;
+    margin: 0%;
+}
+
+.parentinfoF {
+    display: inline-block;
+
+}
+
+.infoimgbody {
+    width: 43%;
+    display: inline-block;
+}
+
+.infoimgF {
+    width: 40%;
+    float: right;
+}
+
+.infoimgS {
+    display: inline-block;
+    width: 40%;
+}
+
+.infoimgbodyS {
+    float: right;
+    width: 43%;
+}
+
+.cartsparentL {
+    width: 95%;
+    margin: auto;
+}
+
+.welcomL {
+    margin-top: 90px;
+    font-size: 60px;
+    margin-left: 430px;
+}
+
+.cartsL {
+    padding: 8px;
+
+}
+
+.greenbtnL {
+    margin: auto;
+    margin-left: 650px;
+    margin-top: 100px;
+    background-color: aqua;
+    width: 250px;
+    height: 80px;
+}
+
+.grayparent {
+    background-color: rgb(190, 185, 185);
+    width: 100%;
+    height: 400px;
+}
+
+.graychild {
+    width: 70%;
+    margin: auto;
+}
+
+.pchild {
+    margin-top: 160px;
+}
+
+.greenparent {
+    background-color: rgb(147, 192, 147);
+    height: 460px;
+
+}
+
+.hello {
+    font-size: 50px;
+    margin-left: 300px;
+    padding: 170px;
+}
